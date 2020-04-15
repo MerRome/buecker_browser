@@ -1,0 +1,12 @@
+name: buecker_browser
+title: buecker_browser
+username:
+account: mer-rom
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1993447
+bundleId: 2950524
+url: https://mer-rom.shinyapps.io/buecker_browser/
+when: 1585682786.76132
+asMultiple: FALSE
+asStatic: FALSE
